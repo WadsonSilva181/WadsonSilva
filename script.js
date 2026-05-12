@@ -234,17 +234,17 @@ document.addEventListener('DOMContentLoaded', () => {
       time: '2023 - Presente',
       tools: ['Ps', 'Ai', 'Ae', 'Pr'],
       industry: 'Direito',
-      mainImg: '/assets/mettalaw/Cartão dia das mães - MettaLaw (1)_pages-to-jpg-0001.jpg',
+      mainImg: './assets/mettalaw/Cartão dia das mães - MettaLaw (1)_pages-to-jpg-0001.jpg',
       gallery: [
-        '/assets/mettalaw/Versão Nova.jpg',
-        '/assets/mettalaw/Versão alternativa.jpg',
-        '/assets/mettalaw/Versão tradicional.jpg',
-        '/assets/mettalaw/Cartão dia das mães - MettaLaw (1)_pages-to-jpg-0001.jpg'
+        './assets/mettalaw/Versão Nova.jpg',
+        './assets/mettalaw/Versão alternativa.jpg',
+        './assets/mettalaw/Versão tradicional.jpg',
+        './assets/mettalaw/Cartão dia das mães - MettaLaw (1)_pages-to-jpg-0001.jpg'
       ],
       assets: [
-        '/assets/mettalaw/Versão Nova.jpg',
-        '/assets/mettalaw/Versão alternativa.jpg',
-        '/assets/mettalaw/Versão tradicional.jpg'
+        './assets/mettalaw/Versão Nova.jpg',
+        './assets/mettalaw/Versão alternativa.jpg',
+        './assets/mettalaw/Versão tradicional.jpg'
       ],
       pdfLinks: [
         { url: 'https://heyzine.com/flip-book/fe908b7b20.html', label: 'PDF Metta Law 1' },
@@ -259,27 +259,27 @@ document.addEventListener('DOMContentLoaded', () => {
       time: '2022 - 2023',
       tools: ['Ps', 'Ai', 'Pr'],
       industry: 'Automobilístico',
-      mainImg: '/assets/zeepo/Post - EZ2.jpg',
+      mainImg: './assets/zeepo/Post - EZ2.jpg',
       gallery: [
-        '/assets/zeepo/Post - EZ2.jpg',
-        '/assets/zeepo/1.jpg',
-        '/assets/zeepo/2.jpg',
-        '/assets/zeepo/3.jpg',
-        '/assets/zeepo/4.jpg',
-        '/assets/zeepo/5.jpg',
-        '/assets/zeepo/6.jpg',
-        '/assets/zeepo/12.jpg',
-        '/assets/zeepo/16.jpg',
-        '/assets/zeepo/18.jpg',
-        '/assets/zeepo/20.jpg',
-        '/assets/zeepo/21.jpg',
-        '/assets/zeepo/Banner 360 imprimir.jpg',
-        '/assets/zeepo/Criativo-Fabio.jpg'
+        './assets/zeepo/Post - EZ2.jpg',
+        './assets/zeepo/1.jpg',
+        './assets/zeepo/2.jpg',
+        './assets/zeepo/3.jpg',
+        './assets/zeepo/4.jpg',
+        './assets/zeepo/5.jpg',
+        './assets/zeepo/6.jpg',
+        './assets/zeepo/12.jpg',
+        './assets/zeepo/16.jpg',
+        './assets/zeepo/18.jpg',
+        './assets/zeepo/20.jpg',
+        './assets/zeepo/21.jpg',
+        './assets/zeepo/Banner 360 imprimir.jpg',
+        './assets/zeepo/Criativo-Fabio.jpg'
       ],
       assets: [
-        '/assets/zeepo/20.jpg',
-        '/assets/zeepo/18.jpg',
-        '/assets/zeepo/12.jpg'
+        './assets/zeepo/20.jpg',
+        './assets/zeepo/18.jpg',
+        './assets/zeepo/12.jpg'
       ],
       pdfLinks: [
         { url: 'https://heyzine.com/flip-book/a002b3651f.html', label: 'Projeto Zeepo (PDF)' }
@@ -294,21 +294,21 @@ document.addEventListener('DOMContentLoaded', () => {
       time: '2021 - 2022',
       tools: ['Ai', 'Ps', 'Id'],
       industry: 'Publicidade',
-      mainImg: '/assets/social/social-3.jpg',
+      mainImg: './assets/social/social-3.jpg',
       gallery: [
-        '/assets/axis/1.jpg',
-        '/assets/axis/2.jpg',
-        '/assets/axis/3.jpg',
-        '/assets/axis/4.jpg',
-        '/assets/axis/5.jpg',
-        '/assets/axis/6.jpg',
-        '/assets/axis/7.jpg',
-        '/assets/axis/8.jpg'
+        './assets/axis/1.jpg',
+        './assets/axis/2.jpg',
+        './assets/axis/3.jpg',
+        './assets/axis/4.jpg',
+        './assets/axis/5.jpg',
+        './assets/axis/6.jpg',
+        './assets/axis/7.jpg',
+        './assets/axis/8.jpg'
       ],
       assets: [
-        '/assets/axis/3.jpg',
-        '/assets/axis/6.jpg',
-        '/assets/axis/1.jpg'
+        './assets/axis/3.jpg',
+        './assets/axis/6.jpg',
+        './assets/axis/1.jpg'
       ],
       pdfLinks: [
         { url: 'https://heyzine.com/flip-book/6c7977984a.html', label: 'Axis 1' },
@@ -323,21 +323,21 @@ document.addEventListener('DOMContentLoaded', () => {
       time: '2020 - 2021',
       tools: ['Ai', 'Ps'],
       industry: 'Design',
-      mainImg: '/assets/WJG/logo-wjg.jpg',
+      mainImg: './assets/WJG/logo-wjg.jpg',
       gallery: [
-        '/assets/WJG/logo-wjg.jpg',
-        '/assets/WJG/flyer-1.png',
-        '/assets/WJG/flyer-2.png',
-        '/assets/WJG/post-wjg.jpg'
+        './assets/WJG/logo-wjg.jpg',
+        './assets/WJG/flyer-1.png',
+        './assets/WJG/flyer-2.png',
+        './assets/WJG/post-wjg.jpg'
       ],
       assets: [
-        '/assets/WJG/flyer-1.png',
-        '/assets/WJG/flyer-2.png',
-        '/assets/WJG/post-wjg.jpg'
+        './assets/WJG/flyer-1.png',
+        './assets/WJG/flyer-2.png',
+        './assets/WJG/post-wjg.jpg'
       ],
       featuredVideo: {
         url: 'https://www.instagram.com/reel/DXo9_mlFJiS/',
-        cover: '/assets/WJG/Captura de tela 2026-05-12 001017.png',
+        cover: './assets/WJG/Captura de tela 2026-05-12 001017.png',
         title: 'Confira nossa primeira entrega!'
       }
     },
@@ -349,25 +349,25 @@ document.addEventListener('DOMContentLoaded', () => {
       time: '2019 - 2020',
       tools: ['Ps', 'Ae'],
       industry: 'Social Media',
-      mainImg: '/assets/social/social-2.jpg',
+      mainImg: './assets/social/social-2.jpg',
       gallery: [
-        '/assets/sociallab/estatico/1.jpg',
-        '/assets/sociallab/estatico/2.jpg',
-        '/assets/sociallab/estatico/3.jpg',
-        '/assets/sociallab/colemar/1.jpg',
-        '/assets/sociallab/colemar/2.jpg',
-        '/assets/sociallab/colemar/3.jpg',
-        '/assets/sociallab/colemar/4.jpg',
-        '/assets/sociallab/colemar/5.jpg',
-        '/assets/sociallab/colemar/6.jpg',
-        '/assets/sociallab/colemar/7.jpg',
-        '/assets/sociallab/colemar/8.jpg',
-        '/assets/sociallab/colemar/9.jpg'
+        './assets/sociallab/estatico/1.jpg',
+        './assets/sociallab/estatico/2.jpg',
+        './assets/sociallab/estatico/3.jpg',
+        './assets/sociallab/colemar/1.jpg',
+        './assets/sociallab/colemar/2.jpg',
+        './assets/sociallab/colemar/3.jpg',
+        './assets/sociallab/colemar/4.jpg',
+        './assets/sociallab/colemar/5.jpg',
+        './assets/sociallab/colemar/6.jpg',
+        './assets/sociallab/colemar/7.jpg',
+        './assets/sociallab/colemar/8.jpg',
+        './assets/sociallab/colemar/9.jpg'
       ],
       assets: [
-        '/assets/sociallab/estatico/1.jpg',
-        '/assets/sociallab/colemar/1.jpg',
-        '/assets/sociallab/estatico/2.jpg'
+        './assets/sociallab/estatico/1.jpg',
+        './assets/sociallab/colemar/1.jpg',
+        './assets/sociallab/estatico/2.jpg'
       ],
       pdfLinks: [
         { url: 'https://heyzine.com/flip-book/7af2522cd9.html', label: 'E-book Estático HMH' },
@@ -382,36 +382,36 @@ document.addEventListener('DOMContentLoaded', () => {
       time: 'Diverso',
       tools: ['Ai', 'Ps', 'Ae', 'Pr'],
       industry: 'Multidisciplinar',
-      mainImg: '/assets/esporadicos/4.jpg',
+      mainImg: './assets/esporadicos/4.jpg',
       gallery: [
-        '/assets/esporadicos/1.jpg',
-        '/assets/esporadicos/2.jpg',
-        '/assets/esporadicos/3.jpg',
-        '/assets/esporadicos/4.jpg',
-        '/assets/esporadicos/leela/1.jpg',
-        '/assets/esporadicos/leela/2.jpg',
-        '/assets/esporadicos/leela/3.jpg',
-        '/assets/esporadicos/leela/4.jpg',
-        '/assets/esporadicos/leela/5.jpg',
-        '/assets/esporadicos/leela/6.jpg',
-        '/assets/esporadicos/leela/7.jpg',
-        '/assets/esporadicos/leela/8.jpg',
-        '/assets/esporadicos/leela/9.jpg',
-        '/assets/esporadicos/leela/10.jpg',
-        '/assets/esporadicos/leela/11.jpg',
-        '/assets/esporadicos/leela/12.jpg',
-        '/assets/esporadicos/leela/13.jpg',
-        '/assets/esporadicos/leela/14.jpg',
-        '/assets/esporadicos/post/1.jpg',
-        '/assets/esporadicos/post/2.jpg',
-        '/assets/esporadicos/post/3.jpg',
-        '/assets/esporadicos/post/4.jpg',
-        '/assets/esporadicos/post/5.jpg'
+        './assets/esporadicos/1.jpg',
+        './assets/esporadicos/2.jpg',
+        './assets/esporadicos/3.jpg',
+        './assets/esporadicos/4.jpg',
+        './assets/esporadicos/leela/1.jpg',
+        './assets/esporadicos/leela/2.jpg',
+        './assets/esporadicos/leela/3.jpg',
+        './assets/esporadicos/leela/4.jpg',
+        './assets/esporadicos/leela/5.jpg',
+        './assets/esporadicos/leela/6.jpg',
+        './assets/esporadicos/leela/7.jpg',
+        './assets/esporadicos/leela/8.jpg',
+        './assets/esporadicos/leela/9.jpg',
+        './assets/esporadicos/leela/10.jpg',
+        './assets/esporadicos/leela/11.jpg',
+        './assets/esporadicos/leela/12.jpg',
+        './assets/esporadicos/leela/13.jpg',
+        './assets/esporadicos/leela/14.jpg',
+        './assets/esporadicos/post/1.jpg',
+        './assets/esporadicos/post/2.jpg',
+        './assets/esporadicos/post/3.jpg',
+        './assets/esporadicos/post/4.jpg',
+        './assets/esporadicos/post/5.jpg'
       ],
       assets: [
-        '/assets/esporadicos/leela/1.jpg',
-        '/assets/esporadicos/post/1.jpg',
-        '/assets/esporadicos/2.jpg'
+        './assets/esporadicos/leela/1.jpg',
+        './assets/esporadicos/post/1.jpg',
+        './assets/esporadicos/2.jpg'
       ],
       pdfLinks: [
         { url: 'https://heyzine.com/flip-book/ad4077f497.html', label: 'IDV - Meninas Futebol Clube 2025' }
@@ -519,7 +519,7 @@ document.addEventListener('DOMContentLoaded', () => {
           gridItem.className = 'grid-item' + (isVideo ? ' is-video' : '');
           
           // Se for vídeo, usamos o logotipo do Pdrzeera como capa com preenchimento total
-          let thumbUrl = isVideo ? '/assets/esporadicos/gamer/logo-gamer.png' : url;
+          let thumbUrl = isVideo ? './assets/esporadicos/gamer/logo-gamer.png' : url;
           let content = `<div class="img-ph" style="background-image: url('${thumbUrl}'); background-size: cover; background-position: center; ${isVideo ? 'filter: brightness(0.5) saturate(1.1);' : ''}"></div>`;
           
           if (isVideo) {
@@ -1636,4 +1636,4 @@ document.addEventListener('DOMContentLoaded', () => {
     yearEl.textContent = new Date().getFullYear();
   }
 
-});
+});
