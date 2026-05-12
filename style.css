@@ -3452,11 +3452,11 @@ body {
 
 /* LOGOTIPOS INDIVIDUAIS */
 .br-1 {
-  background-image: url('/assets/clients/logo-1.png');
+  background-image: url('./assets/clients/logo-1.png');
 }
 
 .br-2 {
-  background-image: url('/assets/clients/logo-2.png');
+  background-image: url('./assets/clients/logo-2.png');
 }
 
 /* Logo 2 - Dobro do tamanho na faixa */
@@ -3466,7 +3466,7 @@ body {
 }
 
 .br-3 {
-  background-image: url('/assets/clients/logo-3.png');
+  background-image: url('./assets/clients/logo-3.png');
 }
 
 /* Logo 3 - 4x o tamanho na faixa */
@@ -3476,27 +3476,27 @@ body {
 }
 
 .br-4 {
-  background-image: url('/assets/clients/logo-4.png');
+  background-image: url('./assets/clients/logo-4.png');
 }
 
 .br-5 {
-  background-image: url('/assets/clients/logo-5.png');
+  background-image: url('./assets/clients/logo-5.png');
 }
 
 .br-6 {
-  background-image: url('/assets/clients/logo-6.png');
+  background-image: url('./assets/clients/logo-6.png');
 }
 
 .br-7 {
-  background-image: url('/assets/clients/logo-7.png');
+  background-image: url('./assets/clients/logo-7.png');
 }
 
 .br-8 {
-  background-image: url('/assets/clients/logo-8.png');
+  background-image: url('./assets/clients/logo-8.png');
 }
 
 .br-9 {
-  background-image: url('/assets/clients/logo-9.png');
+  background-image: url('./assets/clients/logo-9.png');
 }
 
 .ticker-track span {
